@@ -1,0 +1,22 @@
+body{
+    padding-left: 600px;
+    padding-top: 20px;
+    background-image: url('./images/curve.png'); 
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    font-family: 'Roboto', sans-serif;
+  }
+  
+.nameBox {
+    margin-left: 66px;
+}
+
+.date {
+    margin-left: 74px;
+}
+
+.guestNum{
+    margin-left: 17px;
+
+}
